@@ -1,0 +1,28 @@
+C:\Users\CyberCode\Desktop\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Client.PrivateChat.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.PrivateChat.resources
+E:\tài liệu học tập\VNPT\phần mềm chat\TCP Chat\TCP Chat\Server\bin\Debug\Server.exe
+E:\tài liệu học tập\VNPT\phần mềm chat\TCP Chat\TCP Chat\Server\bin\Debug\Server.pdb
+E:\tài liệu học tập\VNPT\phần mềm chat\TCP Chat\TCP Chat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\tài liệu học tập\VNPT\phần mềm chat\TCP Chat\TCP Chat\Server\obj\Debug\Server.Main.resources
+E:\tài liệu học tập\VNPT\phần mềm chat\TCP Chat\TCP Chat\Server\obj\Debug\Server.PrivateChat.resources
+E:\tài liệu học tập\VNPT\phần mềm chat\TCP Chat\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+E:\tài liệu học tập\VNPT\phần mềm chat\TCP Chat\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\tài liệu học tập\VNPT\phần mềm chat\TCP Chat\TCP Chat\Server\obj\Debug\Server.exe
+E:\tài liệu học tập\VNPT\phần mềm chat\TCP Chat\TCP Chat\Server\obj\Debug\Server.pdb
+E:\tài liệu học tập\VNPT\phần mềm chat\TCP Chat\TCP Chat\Server\obj\Debug\Server.quanlytk.resources
